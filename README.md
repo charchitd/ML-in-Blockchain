@@ -22,4 +22,4 @@ By allowing digital information to be distributed but not copied,blockchain tech
 (Buy Bitcoin) the tech community has now found other potential uses for the technology,
 Blockchain enhances trust across a business network.
 
-![Screenshot](blockchain.png)
+![Screenshot](images/blockchain.png)
