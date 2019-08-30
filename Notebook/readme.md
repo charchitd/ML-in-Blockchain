@@ -1,4 +1,4 @@
-##                             PROBLEM STATEMENT
+## PROBLEM STATEMENT
 Machine Learning processing is a logical continuity to the use of the blockchain database.
 You will collect data, store it on a decentralized system, and machine learning algorithms will
 process.
@@ -14,7 +14,7 @@ they can be used to design tools to identify and prevent fraud. Hence the amalga
 Blockchain and machine learning is evolving and, in the future, could be the next big thing;
 we just have to wait and see how technologies unravel their mysteries
 
-![Screenshot](images/ss.png)
+![Screenshot](ss.png)
 
 ## PROPOSED SOLUTION
 Proposed Solutions are described as follows:
@@ -23,4 +23,4 @@ Proposed Solutions are described as follows:
 big-query data-set
 • Comparison between different ML-approaches
 
-  ![Screenshot](images/nn.png)
+  ![Screenshot](nn.png)
